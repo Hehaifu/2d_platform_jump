@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - bullet
+  - enemy
+  - reborn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - platform
+  - bullet
+  - enemy
+  - player
+  - interactive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background1
+    uniqueID: 683215687
+    locked: 0
+  - name: background2
+    uniqueID: 1730537285
+    locked: 0
+  - name: background3
+    uniqueID: 1475695537
+    locked: 0
+  - name: platform
+    uniqueID: 4023525495
+    locked: 0
+  - name: interactive
+    uniqueID: 2680539889
+    locked: 0
+  - name: enemy
+    uniqueID: 3671374809
+    locked: 0
+  - name: player
+    uniqueID: 3583284081
+    locked: 0
+  - name: foreground
+    uniqueID: 485918997
+    locked: 0
